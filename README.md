@@ -4,7 +4,7 @@
  ## **[Lien du github du projet.](https://github.com/L3-Info-Miage-Universite-Cote-D-Azur/projetinfo-2019-stoneage-sah)**
  
 Dans ce lien vous trouverez mon projet de Licence 3 portant sur le jeu [L'Age de pierre](https://www.philibertnet.com/fr/jeux-de-societe/8136-age-de-pierre-l--8435407629387.html).  
-### [Le syllabus du cours](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/Syllabus.html).  
+### [Le syllabus du cours](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/Syllabus.pdf).  
 
 #### Concerant le repository github du projet : 
 Le projet consistait à recréer le jeu version console avec différentes IA jouant les unes contres les autres (pas de graphique, pas de vrai joueur).  
