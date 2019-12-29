@@ -15,7 +15,7 @@ Tout les détails de l'UE sont contenues dans le syllabus.
 
 #### Vous pouvez trouvez les règles du jeu [ici](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/lage-de-pierre-regle.pdf), les cartes batiments [ici](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/batiments.pdf) et cartes civilisations [là](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/Cartecivilisation.pdf) ainsi que leur [effets](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/description_carte.pdf) à chacunes.  
 
-#### Le projet fut présenté devant un jury de 4 professeurs d'informatique. [(les diapositives de la présentation)](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/Diapo-presentation.pptx).  
+#### Le projet fut présenté devant un jury de 4 professeurs d'informatique. [(les diapositives de la présentation)](https://github.com/Mentra20/Projet-Informatique-L3/blob/master/DiaposPresentation.pdf).  
 
 
  
